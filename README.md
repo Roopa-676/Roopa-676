@@ -13,6 +13,8 @@ Country = "🇮🇳"
 - 👨‍💻 I'm a CSE Student.
 - 👋 Hi, I’m currently learning at CIT Chennai.
 - 👀 I’m interested in ... Technology
+- Intern at CodeSoft | Summer 2024 | Working on Java 
+
 
 
 - 📫 How to reach me ...[Instagram](https://www.instagram.com/roopa_676/)
@@ -20,7 +22,7 @@ Country = "🇮🇳"
 
 
 <!---
-Monisha/Monisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Roopa/Roopa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
