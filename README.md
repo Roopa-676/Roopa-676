@@ -13,7 +13,7 @@ Country = "🇮🇳"
 - 👨‍💻 I'm a CSE Student.
 - 👋 Hi, I’m currently learning at CIT Chennai.
 - 👀 I’m interested in ... Technology
-- Intern at CodeSoft | Summer 2024 | Working on Java 
+- Intern at CodSoft | Summer 2024 | Working on Java Development
 
 
 
